@@ -55,6 +55,7 @@ All dependencies (scanpy, pandas, numpy, pyensembl, gtfparse, polars, ruptures, 
 
 ## 🚀 Quick Start
 
+USE THE EXAMPLE NOTEBOOK FOR QUICK START
 ### 1. Python API
 
 ```python
