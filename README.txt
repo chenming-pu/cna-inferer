@@ -2,6 +2,20 @@
 
 A Python package to infer copy number alterations (CNAs) from single‑cell RNA‑seq data using sliding‑window aggregation and segmentation.
 
+Important things should be said ten times：
+
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+===================================!USE THE EXAMPLE NOTEBOOK FOR QUICK START! =====================================
+
+
 ## 📂 Repository Structure
 
 ```
